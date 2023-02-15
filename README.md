@@ -8,7 +8,7 @@ I was training to be a chartered accountant when I realised I did not enjoy what
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| (**Reel Places**) (https://github.com/shussain894/ReelPlaces)            | A webapp where users can search a location and discover the movies filmed there. | React Native, Jest, Node, MongoDB & Express |
+| [**Reel Places**](https://github.com/shussain894/ReelPlaces)            | A webapp where users can search a location and discover the movies filmed there. | React Native, Jest, Node, MongoDB & Express |
 | **Acebook** | Facebook clone - a larger group project with seven members. Seeded with a partially complete codebase. Objective was to add features for managing user profiles, images and adding posts, comments and likes. | MongoDB, Express, React, Node, Jest & Cypress |
 | **News Summary** | A webapp pulling the latest headlines from The Guardian API. | Javascript, Jest |
 | **Bowling Scorecard** | A scorecard to simulate the complexities of scoring in bowling. | Javascript, Jest |
