@@ -1,12 +1,14 @@
-## Your Name
+## Shah Hussain
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a Makers trained Junior Software and DevOps Engineer with AWS Cloud Practitioner and AWS Solution Architect qualifications. I have strong interpersonal skills and am constantly improving my technical skills with side projects in various tech stacks.
+
+I was training to be a chartered accountant when I realised I did not enjoy what I was doing, I joined a cloud computing bootcamp where I completed my AWS certifications and was studying Python, I was introduced to programming and was amazed by its endless possibilities, I knew I had gaps in my skillset and there I found Makers Academy, a 16 week full-stack web development bootcamp.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| **Reel Places. **            | A webapp where users can search a location and discover the movies filmed there. | React Native, Jest, Node, MongoDB & Express |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Work Experience
