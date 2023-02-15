@@ -9,26 +9,31 @@ I was training to be a chartered accountant when I realised I did not enjoy what
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | [**Reel Places**](https://github.com/shussain894/ReelPlaces)            | A webapp where users can search a location and discover the movies filmed there. | React Native, Jest, Node, MongoDB & Express |
-| **Acebook** | Facebook clone - a larger group project with seven members. Seeded with a partially complete codebase. Objective was to add features for managing user profiles, images and adding posts, comments and likes. | MongoDB, Express, React, Node, Jest & Cypress |
-| **News Summary** | A webapp pulling the latest headlines from The Guardian API. | Javascript, Jest |
-| **Bowling Scorecard** | A scorecard to simulate the complexities of scoring in bowling. | Javascript, Jest |
-| **MakersBNB** | AirBNB clone - A group project to create the basics of Airbnb. | Ruby, RSpec, PostgreSQL, HTML, CSS |
-| **Shop Manager** | A command line program to manage a basic Product Inventory Management system. | Ruby, RSpec, PostgreSQL |
-| **Chitter** | Twitter clone where users can sign up, login, post tweets and view their feed. | Ruby, RSpec, PostgreSQL |
+| [**Acebook**](https://github.com/shussain894/acebook) | Facebook clone - a larger group project with seven members. Seeded with a partially complete codebase. Objective was to add features for managing user profiles, images and adding posts, comments and likes. | MongoDB, Express, React, Node, Jest & Cypress |
+| [**News Summary**](https://github.com/shussain894/news-summary-challenge) | A webapp pulling the latest headlines from The Guardian API. | Javascript, Jest |
+| [**Bowling Scorecard**](https://github.com/shussain894/bowling-challenge) | A scorecard to simulate the complexities of scoring in bowling. | Javascript, Jest |
+| [**MakersBNB**](https://github.com/shussain894/makersbnb) | AirBNB clone - A group project to create the basics of Airbnb. | Ruby, RSpec, PostgreSQL, HTML, CSS |
+| [**Shop Manager**](https://github.com/shussain894/shop-manager-challenge) | A command line program to manage a basic Product Inventory Management system. | Ruby, RSpec, PostgreSQL |
+| [**Chitter**](https://github.com/shussain894/chitter-challenge) | Twitter clone where users can sign up, login, post tweets and view their feed. | Ruby, RSpec, PostgreSQL |
 
 
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Autone** (May 2022 - June 2022)
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+Junior Devops Engineer
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+- Used Terraform to deploy/destroy AWS services.
+- Analysed AWS Infrastructure and offered advice to the engineering team for improvements.
+- Wrote Python scripts and Lambda functions to read from DynamoDB and send results via API, FTP and email.
+- Diagrammed the company’s AWS domain to explain how the company operates to the wider team and new employees.
+- Used GitHub to deploy updates to the company’s services.
 
-- Any experience relevent to software development
+**Rail Delivery Group** (January 2019 - January 2022)  
+Settlement Account Assistant
+
+Credit control, month end processing and financial reconciliation.
 
 ## Skills
 
@@ -54,25 +59,39 @@ I honed my communication skills while completing my thesis at university, which 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (October 2022 - February 2023)
 
-#### Your University / College (start_date to end_date)
+- Test Driven Development to write high quality code in various languages.
+- Object Oriented Design to structure code effectively and break down large programs.
+- Debugging our own and pre-written programs.
+- Pair programming daily and working in group projects.
+- Git; branching, pull requests and code reviews.
+- Deploying code on Heroku and Render.
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### Digital Futures Academy (January 2022 - April 2023)
+Trainee Cloud Enginee
 
-#### Any other qualifications
+- Gained AWS Cloud Practitioner and AWS Solutions Architect qualifications using AWS Services in learner labs (EC2, S3, Lambda, RDS, CloudWatch, DynamoDB, VPC and Cognito).
+- Provisioned resources using Terraform.
+- Developed and maintained automated CI/CD workflows.
+- Network connectivity and configured ports to allow/deny access.
+- Used Linux command lines on applications such as Docker and Terraform.
+- Used Python to configure AWS services in challenge labs and to launch websites.
+- Designed well architected solutions to complex customer needs for a cloud migration project focusing on benefits, short-term and long-term goals and pricing models.
 
-That in some arguable way make you a better software developer or well-rounded person
+#### Westminster University (September 2013 - July 2016)
+
+- Finance BSc
+- 2:1
+
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Football Coach for Central Park All Stars
+- Train a team of 10 year olds on teamwork, football and social skills.
+- Help youngsters with learning difficulties bond, socialise and fit in.
+
+Social and charity work
+- Assist young kids in local youth group with job/apprenticeship applications and help them transition into technology.
+- Helped serve over 300 people daily at a food bank.
+- Charity fundraising for youth groups, food banks and needy individuals.
