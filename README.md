@@ -8,8 +8,15 @@ I was training to be a chartered accountant when I realised I did not enjoy what
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Reel Places. **            | A webapp where users can search a location and discover the movies filmed there. | React Native, Jest, Node, MongoDB & Express |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Reel Places**            | A webapp where users can search a location and discover the movies filmed there. | React Native, Jest, Node, MongoDB & Express |
+| **Acebook** | Facebook clone - a larger group project with seven members. Seeded with a partially complete codebase. Objective was to add features for managing user profiles, images and adding posts, comments and likes. | MongoDB, Express, React, Node, Jest & Cypress |
+| **News Summary** | A webapp pulling the latest headlines from The Guardian API. | Javascript, Jest |
+| **Bowling Scorecard** | A scorecard to simulate the complexities of scoring in bowling. | Javascript, Jest |
+| **MakersBNB** | AirBNB clone - A group project to create the basics of Airbnb. | Ruby, RSpec, PostgreSQL, HTML, CSS |
+| **Shop Manager** | A command line program to manage a basic Product Inventory Management system. | Ruby, RSpec, PostgreSQL |
+| **Chitter** | Twitter clone where users can sign up, login, post tweets and view their feed. | Ruby, RSpec, PostgreSQL |
+
+
 
 ## Work Experience
 
