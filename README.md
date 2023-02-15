@@ -2,7 +2,7 @@
 
 I am a Makers trained Junior Software and DevOps Engineer with AWS Cloud Practitioner and AWS Solution Architect qualifications. I have strong interpersonal skills and am constantly improving my technical skills with side projects in various tech stacks.
 
-I was training to be a chartered accountant when I realised I did not enjoy what I was doing, I joined a cloud computing bootcamp where I completed my AWS certifications and was studying Python, I was introduced to programming and was amazed by its endless possibilities, I knew I had gaps in my skillset and there I found Makers Academy, a 16 week full-stack web development bootcamp.
+I was introduced to tech & coding when I joined a cloud computing academy, I learnt the basics of DevOps and how to script in Python. I thoroughly enjoyed the cloud space but wanted to be able to code well, many family members recommended Makers so I eventually joined their software engineering bootcamp. I spent the next 16 weeks becoming a full-stack developer.
 
 ## Projects
 
@@ -37,24 +37,14 @@ Credit control, month end processing and financial reconciliation.
 
 ## Skills
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
-
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
-
-
-Here's an example
-
 #### Communication
 I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
 
-#### Another skill
+I pride myself on my ability to communicate with others, effectively. I ensure all members of the group are on the same page and are united on the end goal. Football plays a huge part in my life and I coach a team of 10 year old boys, I make the training sessions simple and fun, I give them all simple instructions they can follow to make them a better team on and off the pitch. This skill often became handy in the Makers bootcamp where we worked in several group projects, I always strove to help all members of the team and that we shared knowledge from different components of the programs, as we were constantly working for weeks at a time on one project, it was easy for a pair to complete a feature without the rest of the group knowing the logic behind it, I always asked for time to be set aside in a sprint so all members knew their way around the code even if it meant us not completing as many tickets, the learning and development is far superior.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Leadership
 
-#### Another skill
+I see myself as a natural leader, during my time in school/university, work places and in my social life. I always volunteered to be in the school council, pushed for sports captaincy, contributed to university societies and took on supervisory roles in my employment. I thrive in a team
 
 
 ## Education
