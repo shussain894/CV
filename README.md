@@ -4,6 +4,8 @@ I am a Makers trained Junior Software and DevOps Engineer with AWS Cloud Practit
 
 I was introduced to tech & coding when I joined a cloud computing academy, I learnt the basics of DevOps and how to script in Python. I thoroughly enjoyed the cloud space but wanted to be able to code well, many family members recommended Makers so I eventually joined their software engineering bootcamp. I spent the next 16 weeks becoming a full-stack developer.
 
+During my time at Makers Academy, I kept a blog, detailing my experiences and feelings throughout. You can read it [here.](https://medium.com/@shahhussain1)
+
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
