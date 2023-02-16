@@ -49,6 +49,7 @@ I see myself as a natural leader, during my time in school/university, work plac
 ## Education
 
 #### Makers Academy (October 2022 - February 2023)
+Junior Software Developer
 
 - Test Driven Development to write high quality code in various languages.
 - Object Oriented Design to structure code effectively and break down large programs.
@@ -58,7 +59,7 @@ I see myself as a natural leader, during my time in school/university, work plac
 - Deploying code on Heroku and Render.
 
 #### Digital Futures Academy (January 2022 - April 2023)
-Trainee Cloud Enginee
+Junior DevOps Engineer
 
 - Gained AWS Cloud Practitioner and AWS Solutions Architect qualifications using AWS Services in learner labs (EC2, S3, Lambda, RDS, CloudWatch, DynamoDB, VPC and Cognito).
 - Provisioned resources using Terraform.
