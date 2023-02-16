@@ -22,8 +22,7 @@ During my time at Makers Academy, I kept a blog, detailing my experiences and fe
 
 ## Work Experience
 
-**Autone** (May 2022 - June 2022)
-
+**Autone** (May 2022 - June 2022)                   
 Junior Devops Engineer
 
 - Used Terraform to deploy/destroy AWS services.
