@@ -96,4 +96,4 @@ Football Coach for Central Park All Stars
 Social and charity work
 - Assist young kids in local youth group with job/apprenticeship applications and help them transition into technology.
 - Helped serve over 300 people daily at a food bank.
-- Charity fundraising for youth groups, food banks and needy individuals.
+- Charity fundraising for youth groups, food banks and individuals in need of support.
