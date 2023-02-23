@@ -4,7 +4,7 @@ I am a Makers trained Junior Software and DevOps Engineer with AWS Cloud Practit
 
 I was introduced to tech & coding when I joined a cloud computing academy, I learnt the basics of DevOps and how to script in Python. I thoroughly enjoyed the cloud space but wanted to be able to code well, many family members recommended Makers so I eventually joined their software engineering bootcamp. I spent the next 16 weeks becoming a full-stack developer.
 
-I am searching for a company where learning & development is pivotal, I am at the beginning of my journey so the right advice and guidance is very important. I am hoping to be apart of a team where I can contribute, grow and progress.
+I am searching for a company where learning & development is pivotal, I am at the beginning of my journey so the right advice and guidance is very important. I am hoping to be apart of a team where I can contribute, grow and progress. 
 
 During my time at Makers Academy, I kept a blog, detailing my experiences and feelings throughout. You can read it [here.](https://medium.com/@shahhussain1)
 
@@ -38,17 +38,20 @@ Junior Devops Engineer
 **Rail Delivery Group** (January 2019 - January 2022)  
 Settlement Account Assistant
 
-Credit control, month end processing and financial reconciliation.
+- Reconciled major train operating companies with £10m+ accounts
+- Dealt with important customers e.g. MOD & MOJ
+- Managed payroll for 300+ staff
+- Credit control for 100+ accounts
 
 ## Skills
 
 #### Communication
 
-I pride myself on my ability to communicate with others, effectively. I ensure all members of the group are on the same page and are united on the end goal. Football plays a huge part in my life and I coach a team of 10 year old boys, I make the training sessions simple and fun, I give them all simple instructions they can follow to make them a better team on and off the pitch. This skill often became handy in the Makers bootcamp where we worked in several group projects, I always strove to help all members of the team and that we shared knowledge from different components of the programs, as we were constantly working for weeks at a time on one project, it was easy for a pair to complete a feature without the rest of the group knowing the logic behind it, I always asked for time to be set aside in a sprint so all members knew their way around the code even if it meant us not completing as many tickets, the learning and development is far superior.
+I pride myself on my ability to communicate with others, effectively. I ensure all members of the group are on the same page and are united on the end goal. Football plays a huge part in my life and I coach a team of 10 year old boys, I make the training sessions simple and fun, I give them all simple instructions they can follow to make them a better team on and off the pitch. I also arrange the weekly matches with the FA, other clubs and then the parents, to be able to do this I need to manage my time well and be in constant communication with all parents and coaches on match day so the day runs smoothly.  This skill often became handy in the Makers bootcamp where we worked in several group projects, I always strove to help all members of the team and that we shared knowledge from different components of the programs, as we were usually working for weeks at a time on one project, it was easy for a pair to complete a feature without the rest of the group knowing the logic behind it, I always asked for time to be set aside in a sprint so all members knew their way around the code even if it meant us not completing as many tickets, the learning and development is far superior.
 
 #### Leadership
 
-I see myself as a natural leader, during my time in school/university, work places and in my social life. I always volunteered to be in the school council, pushed for sports captaincy, contributed to university societies and took on supervisory roles in my employment. I thrive in a team setting, especially in our group projects at Makers Academy, I always put myself forward to be project manager, give others a sense of direction and unite us on a common goal. I like to make the difficult decisions that others aren't able to make, I enjoy managing people without being too aggressive or stiff-arming them, I listen to others well and use criticism to improve my team-working skills. I am also able to identify others' strengths quickly and utilise them, there was an example in our 'Facebook' project where my team memberhad sharper ideas and was more creative so I nominated them to have the key responsibility of styling our website, they appreciated this a lot and mentioned this in one of our retros.
+I see myself as a natural leader, during my time in school/university, work places and in my social life. I always volunteered to be in the school council, pushed for sports captaincy, contributed to university societies and took on supervisory roles in my employment. Being a football coach to a group of 10 year olds means they see you as an important figure in their life, working with them closely on and off the pitch, monitoring their behaviour at school, rewarding them for efforts on the field and lending an 'arm around the shoulder' when needed. I thrive in a team setting, especially in our group projects at Makers Academy, I always put myself forward to be project manager, give others a sense of direction and unite us on a common goal. I like to make the difficult decisions that others aren't able to make, I enjoy managing people without being too aggressive or stiff-arming them, I listen to others well and use criticism to improve my team-working skills. I am also able to identify others' strengths quickly and utilise them, there was an example in our 'Facebook' project where my team member had sharper ideas and was more creative so I nominated them to have the key responsibility of styling our website, they appreciated this a lot and mentioned this in one of our retros.
 
 
 ## Education
