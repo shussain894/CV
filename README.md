@@ -12,9 +12,9 @@ My LinkedIn [profile](https://www.linkedin.com/in/shah-hussain-423969174/)
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| [**Reel Places**](https://github.com/shussain894/ReelPlaces)            | A webapp where users can search a location and discover the movies filmed there. | React Native, Jest, Node, MongoDB & Express |
+| Name                         | Description       | Tech/tools        | Live link        |
+| ---------------------------- | ----------------- | ----------------- | ---------------- |
+| [**Reel Places**](https://github.com/shussain894/ReelPlaces)            | A webapp where users can search a location and discover the movies filmed there. | React Native, Jest, Node, MongoDB & Express | https://reelplaces.herokuapp.com/ |
 | [**Acebook**](https://github.com/shussain894/acebook) | Facebook clone - a larger group project with seven members. Seeded with a partially complete codebase. Objective was to add features for managing user profiles, images and adding posts, comments and likes. | MongoDB, Express, React, Node, Jest & Cypress |
 | [**News Summary**](https://github.com/shussain894/news-summary-challenge) | A webapp pulling the latest headlines from The Guardian API. | Javascript, Jest |
 | [**Bowling Scorecard**](https://github.com/shussain894/bowling-challenge) | A scorecard to simulate the complexities of scoring in bowling. | Javascript, Jest |
