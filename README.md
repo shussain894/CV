@@ -26,6 +26,16 @@ My LinkedIn [profile](https://www.linkedin.com/in/shah-hussain-423969174/)
 
 ## Work Experience
 
+**Freelance: Software Engineer** (February 2023 - Present)
+
+Building a full-stack (MERN) website for a football club to automate manual admin processes, reduce paperwork and use of WhatsApp to monitor day-to-day activities
+
+- Behavioural Driven Development to meet customer needs
+- Regularly meeting with the customer to showcase work and review
+- Conducted testing and debugging to identify and resolve any issues, ensuring that the website is functional and error-free
+- Designed and implemented the front-end user interface using React and integrated it with the back-end using Node.js and Express
+- Created and managed a MongoDB database to store user data, player data, player stats, and match results, ensuring scalability and security of the system.
+
 **Autone** (May 2022 - June 2022)                   
 Junior Devops Engineer
 
